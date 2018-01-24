@@ -6,8 +6,6 @@ contact_entries:
     text: >-
       163 Mercedes (Antonio Guiteras) between Carmen (Frank País) & Aguacate
       (Pedro Zerquera), Trinidad 62600
-  - heading: Quick contact
-    text: +53 54126878
 ---
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
