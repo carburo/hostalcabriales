@@ -1,45 +1,49 @@
 ---
-title: "Values"
+title: Values
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: Shade-grown coffee
+    imageUrl: /img/about-shade-grown.jpg
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      The house is just two blocks from the central park, where is located a
+      wifi point. We prepared a cocktail of welcome. In the house we organize
+      trips on horseback, to the beach, in addition to show you the most
+      interesting places of Trinidad.Welcome to the guests whenever they
+      wish.The house has a beautiful balcony and a large terrace. The house is
+      located just 10 minutes walking from Plaza Mayor and Via Azul.
+  - heading: El lugar
+    imageUrl: /img/about-single-origin.jpg
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      Su casa esta a solo dos cuadra del parque central, donde esta ubicado un
+      punto wifi y las principales tiendas Trinidad. Preparamos un coctel de
+      bievenida. En la casa organizamos viajes a caballo, a la playa, además de
+      mostrarle los lugares más interesantes de la ciudad , su casa esta a solo
+      10 minutos caminando de la Plaza Mayor y Via Azul.Amplia terreza ideal
+      para consumo de mojitos y tragos tipicos cubanos.Recuerde una cosa, no
+      somos los mejores, pero somos diferentes!!
+  - heading: Disponible para huéspedes
+    imageUrl: /img/about-sustainable-farming.jpg
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      Usted ya es uno más de la familia , sientase libre de disfrutar de los
+      espacios de la casa, terrazas, sala.
+
+      Ofertamos desayunos, almuerzos ,comidas, servicios de tragos,asi como una
+      serie de ofertas en las cuales estan Fast Food. Le ayudamos en todo lo que
+      necesite.Los esperamos
+  - heading: Atención a los huéspedes
+    imageUrl: /img/about-direct-sourcing.jpg
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+      En el hogar siempre habrá una persona, dispuesta a yudarlas en todo lo que
+      sea posible.Nuestro casa cuenta con un doctor en caso de sentirse mal
+      algunos de nuestros invitados.Tambien podemos contarles si lo desean y le
+      gusta la historia acerca de secretos e historias de Trinidad.
+  - heading: And also
+    imageUrl: /img/about-reinvest-profits.jpg
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      Hacemos de su estancia en nuestro hogar, tiempo inolvidable.Tenemos
+      hermosas vistas con terrazas y balcones.
+
+      Les invitamos a probar nuestros mojitos y a cenar en casa, con su chef
+      Magalis
 ---
+
