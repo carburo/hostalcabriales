@@ -2,15 +2,6 @@
 title: Values
 image: /img/about-jumbotron.jpg
 values:
-  - heading: Shade-grown coffee
-    imageUrl: /img/about-shade-grown.jpg
-    text: >
-      The house is just two blocks from the central park, where is located a
-      wifi point. We prepared a cocktail of welcome. In the house we organize
-      trips on horseback, to the beach, in addition to show you the most
-      interesting places of Trinidad.Welcome to the guests whenever they
-      wish.The house has a beautiful balcony and a large terrace. The house is
-      located just 10 minutes walking from Plaza Mayor and Via Azul.
   - heading: El lugar
     imageUrl: /img/about-single-origin.jpg
     text: >
