@@ -9,7 +9,7 @@ values:
   - heading: Always for you
     imageUrl: /img/about-guides.jpg
     text: >
-       We welcome our guests with a traditinal cocktail prepared by ourselves. We always care for our guests to have the best experience and are willing to help them in any case. We can help in organize excursions, horseback ridings, travels to the beach and to show you the most interesting places in the city.
+       We welcome our guests with a traditional cocktail prepared by ourselves. We always care for our guests to have the best experience and are willing to help them in any case. We can help in organize excursions, horseback ridings, travels to the beach and to show you the most interesting places in the city.
   - heading: Mi casa es tu casa
     imageUrl: /img/about-services.jpg
     text: >
