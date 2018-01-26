@@ -2,39 +2,26 @@
 title: Values
 image: /img/about-jumbotron.jpg
 values:
-  - heading: El lugar
+  - heading: The place
     imageUrl: /img/about-single-origin.jpg
     text: >
-      Su casa esta a solo dos cuadra del parque central, donde esta ubicado un
-      punto wifi y las principales tiendas Trinidad. Preparamos un coctel de
-      bievenida. En la casa organizamos viajes a caballo, a la playa, además de
-      mostrarle los lugares más interesantes de la ciudad , su casa esta a solo
-      10 minutos caminando de la Plaza Mayor y Via Azul.Amplia terreza ideal
-      para consumo de mojitos y tragos tipicos cubanos.Recuerde una cosa, no
-      somos los mejores, pero somos diferentes!!
-  - heading: Disponible para huéspedes
+      Our house is located at just two blocks from Central Park, where you can find the wi-fi connection and the main shops. At walking distance (only 10 minutes by foot) you'll find the historical Main Square, the museums and the bus station (Via Azul). Our guest usually find our spacious terrace as an ideal play to relax and enjoy a good mojito.
+  - heading: Always for you
+    imageUrl: /img/about-single-origin.jpg
+    text: >
+       We welcome our guests with a traditinal cocktail prepared by ourselves. We always care for our guests to have the best experience and are willing to help them in any case. We can help in organize excursions, horseback ridings, travels to the beach and to show you the most interesting places in the city.
+  - heading: Mi casa es tu casa
     imageUrl: /img/about-sustainable-farming.jpg
     text: >
-      Usted ya es uno más de la familia , sientase libre de disfrutar de los
-      espacios de la casa, terrazas, sala.
-
-      Ofertamos desayunos, almuerzos ,comidas, servicios de tragos,asi como una
-      serie de ofertas en las cuales estan Fast Food. Le ayudamos en todo lo que
-      necesite.Los esperamos
-  - heading: Atención a los huéspedes
-    imageUrl: /img/about-direct-sourcing.jpg
+      You are already one more in the family, feel yourself free to enjoy all the spaces of the house, including terraces and the living room.
+      We offer breakfast, lunch, dinner, cocktails and even fast food. Don't hesitate to ask, we will do everything in our hands to meet your needs. We are waiting for you.
+  - heading: Our number 1 priority
+    imageUrl: /img/about-guests.jpg
     text: >
-      En el hogar siempre habrá una persona, dispuesta a yudarlas en todo lo que
-      sea posible.Nuestro casa cuenta con un doctor en caso de sentirse mal
-      algunos de nuestros invitados.Tambien podemos contarles si lo desean y le
-      gusta la historia acerca de secretos e historias de Trinidad.
-  - heading: And also
+      At home there will be allways a person willing to assist you in every manner. If saddly find yourself not feeling weel during your stay, you'll be glad to know that there is a doctor in the family. We love to talk and share experiences with our guests, so if you like we can tell you about the history and secrets of Trinidad.
+  - heading: Finally
     imageUrl: /img/about-reinvest-profits.jpg
     text: >
-      Hacemos de su estancia en nuestro hogar, tiempo inolvidable.Tenemos
-      hermosas vistas con terrazas y balcones.
-
-      Les invitamos a probar nuestros mojitos y a cenar en casa, con su chef
-      Magalis
+      We feel proud to make from your stay in our house an unforgettable time. Decide now to enjoy the beatiful views of the city from our terraces and balconies. We invite you to taste our mojitos and to have dinner at home with your chef Magalis. And remember we may not be the best, but we are most certainly different.
 ---
 
