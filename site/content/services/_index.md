@@ -9,26 +9,26 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/illustrations-breakfast.svg
       text: >
-        Breakfasts, dinners at reasonable prices. Whenever you wish, we will be
+        Breakfasts, lunch and dinner at reasonable prices. Whenever you wish, we will be
         happy to serve you.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/illustrations-drinks.svg
       text: >
-        Drinks and cocktails at reasonable prices. Whenever you wish, we will be
-        happy to serve you.
-    - image: /img/illustrations-tutorials.svg
+        Drinks and cocktails in our lovely terrace. Mojitos, canchánchara, anything you ask.
+    - image: /img/illustrations-washing.svg
       text: >
         We can carefully wash and iron your clothes, giving an extreme cleaning
         and a new fragrance. Regardless of quantity, we are here to serve you.
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/illustrations-hiking.svg
       text: >
         City and mountain tours with specialized guides will show the uniqueness
         of Trinidad.
-    - text: >-
-        If you still want to know our country, we can manage your reservation in
-        many other hostals. You jus ask: We work for you.
-    - text: >-
+    - image: /img/illustrations-houses.svg
+      text: >-
+        If you still want to know our country, we can manage your reservation in other B&Bs. Just ask: We work for you.
+    - image: /img/illustrations-dancing.svg
+      text: >-
         We offer you funny salsa lessons of traditionals dancings, with
         experienced professors. Make your stay here more exciting and enjoy to
         the full. 
@@ -55,14 +55,12 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: omid22 (Munich, Germany)
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      We enjoyed our stay with Alejandro and his family. His brother makes the best Mojito, you should definitely try it. What we enjoyed the most was hanging with the friends and having a small insight about the real life in Cuba. They also helped us to organize a cab to the airport, which we appreciate a lot.
+  - author: Iwona M
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Fantastic place. Walking distance to the center of Trinidad. True Cuban experience. Very comfortable room with balcony, clean and spacious. The most important: great, hostable people. All service in place: organizing trips, food, drinks.
 full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
