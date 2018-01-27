@@ -18,6 +18,6 @@ values:
   - heading: Finally
     imageUrl: /img/about-us.jpg
     text: >
-      We feel proud to make from your stay in our house an unforgettable time. Decide now to enjoy the beatiful views of the city from our terraces and balconies. We invite you to taste our mojitos and to have dinner at home with your chef Magalis. And remember we may not be the best, but we are most certainly different.
+      We feel proud to make from your stay in our house an unforgettable time. Decide now to enjoy the beautiful views of the city from our terraces and balconies. We invite you to taste our mojitos and to have dinner at home with your chef Magalis. And remember we may not be the best, but we are most certainly different.
 ---
 
