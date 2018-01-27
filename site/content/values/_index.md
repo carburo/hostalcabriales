@@ -2,10 +2,6 @@
 title: Values
 image: /img/about-jumbotron.jpg
 values:
-  - heading: The place
-    imageUrl: /img/about-location.jpg
-    text: >
-      Our house is located at just two blocks from Central Park, where you can find the wi-fi connection and the main shops. At walking distance (only 10 minutes by foot) you'll find the historical Main Square, the museums and the bus station (Via Azul). Our guest usually find our spacious terrace as an ideal play to relax and enjoy a good mojito.
   - heading: Always for you
     imageUrl: /img/about-guides.jpg
     text: >

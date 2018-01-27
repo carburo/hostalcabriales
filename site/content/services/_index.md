@@ -30,12 +30,9 @@ intro:
   description: >
     We love to make our guests enjoy their stay to the full and for that we offer high quality service.
 main:
-  heading: Great coffee with no compromises
+  heading: The place
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Our house is located at just two blocks from Central Park, where you can find the wi-fi connection and the main shops. At walking distance (only 10 minutes by foot) you'll find the historical Main Square, the museums and the bus station (Via Azul). Our guests usually find our spacious terrace as an ideal play to relax and enjoy a good mojito.
   image1:
     alt: Bedroom
     image: /img/services-bathroom.jpg
