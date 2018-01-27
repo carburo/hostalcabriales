@@ -8,7 +8,7 @@ contact_entries:
       (Pedro Zerquera), Trinidad 62600
   - heading: Quick contact
     text: >-
-      <contact@hostalcabriales.com>  
+      <fbcabriales@infomed.sld.cu>  
 
       +53 54126878
       
